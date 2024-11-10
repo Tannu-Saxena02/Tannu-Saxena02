@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **tannusaxena02@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-DrOjozUxFpD0zX2qk8DKpCK348xJ6xW/view](https://drive.google.com/file/d/1-DrOjozUxFpD0zX2qk8DKpCK348xJ6xW/view)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
