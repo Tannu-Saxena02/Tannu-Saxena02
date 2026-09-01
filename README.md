@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/tannusaxen8468" target="blank"><img src="https://img.shields.io/twitter/follow/tannusaxen8468?logo=twitter&style=for-the-badge" alt="tannusaxen8468" /></a> </p>
 
-- 🔭 I’m currently working on **NovoInvent Software as a mobile developer**
+- 🔭 I’m currently working on **Infosys PVT LMT as a mobile developer**
 
 - 🌱 I’m currently learning **and deep dive into react-native and android development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tannu-Saxena02](https://github.com/Tannu-Saxena02)
 
-- 💬 Ask me about **Java,Android,react-native,Kotlin,Javascript,C++,C,DBMS,OS,SQL**
+- 💬 Ask me about **Java, Android, react-native, mobile development, React, Kotlin, Javascript, C++, C, DBMS, OS, SQL**
 
 - 📫 How to reach me **tannusaxena02@gmail.com**
 
